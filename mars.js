@@ -578,7 +578,7 @@ mars7.on("message", message => {
 ///////////////////////////////////////////////
 mars8.on("ready", ready => {
   mars8.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("8");
 });
 
 mars8.on("message", message => {
@@ -654,7 +654,7 @@ mars8.on("message", message => {
 /////////////////////////////////////////////////
 mars9.on("ready", ready => {
   mars9.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("9");
 });
 
 mars9.on("message", message => {
@@ -730,7 +730,7 @@ mars9.on("message", message => {
 ///////////////////////////////////
 mars10.on("ready", ready => {
   mars10.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("10");
 });
 
 mars10.on("message", message => {
@@ -806,7 +806,7 @@ mars10.on("message", message => {
 ///////////////////////////////////
 mars11.on("ready", ready => {
   mars11.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("11");
 });
 
 mars11.on("message", message => {
@@ -882,7 +882,7 @@ mars11.on("message", message => {
 ///////////////////////////////////
 mars12.on("ready", ready => {
   mars12.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("12");
 });
 
 mars12.on("message", message => {
@@ -958,7 +958,7 @@ mars12.on("message", message => {
 ///////////////////////////////////
 mars13.on("ready", ready => {
   mars13.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("13");
 });
 
 mars13.on("message", message => {
@@ -1034,7 +1034,7 @@ mars13.on("message", message => {
 ///////////////////////////////////
 mars14.on("ready", ready => {
   mars14.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("14");
 });
 
 mars14.on("message", message => {
@@ -1110,7 +1110,7 @@ mars14.on("message", message => {
 ///////////////////////////////////
 mars15.on("ready", ready => {
   mars15.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("15");
 });
 
 mars15.on("message", message => {
@@ -1193,7 +1193,7 @@ mars15.on("message", message => {
 ///////////////////////////////////
 mars16.on("ready", ready => {
   mars16.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("16");
 });
 
 mars16.on("message", message => {
@@ -1269,7 +1269,7 @@ mars16.on("message", message => {
 ///////////////////////////////////
 mars17.on("ready", ready => {
   mars17.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("17");
 });
 
 mars17.on("message", message => {
@@ -1345,7 +1345,7 @@ mars17.on("message", message => {
 ///////////////////////////////////
 mars18.on("ready", ready => {
   mars18.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("18");
 });
 
 mars18.on("message", message => {
@@ -1421,7 +1421,7 @@ mars18.on("message", message => {
 ///////////////////////////////////
 mars19.on("ready", ready => {
   mars19.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("19");
 });
 
 mars19.on("message", message => {
@@ -1497,7 +1497,7 @@ mars19.on("message", message => {
 ///////////////////////////////////
 mars20.on("ready", ready => {
   mars20.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("20");
 });
 
 mars20.on("message", message => {
@@ -1573,7 +1573,7 @@ mars20.on("message", message => {
 ///////////////////////////////////
 mars21.on("ready", ready => {
   mars21.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("21");
 });
 
 mars21.on("message", message => {
@@ -1649,7 +1649,7 @@ mars21.on("message", message => {
 ///////////////////////////////////
 mars22.on("ready", ready => {
   mars22.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("22");
 });
 
 mars22.on("message", message => {
@@ -1725,7 +1725,7 @@ mars22.on("message", message => {
 ///////////////////////////////////
 mars23.on("ready", ready => {
   mars23.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("23");
 });
 
 mars23.on("message", message => {
@@ -1801,7 +1801,7 @@ mars23.on("message", message => {
 ///////////////////////////////////
 mars24.on("ready", ready => {
   mars24.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("24");
 });
 
 mars24.on("message", message => {
@@ -1877,7 +1877,7 @@ mars24.on("message", message => {
 ///////////////////////////////////
 mars25.on("ready", ready => {
   mars25.user.setActivity("code by mars");
-  console.log("Im ready");
+  console.log("25");
 });
 
 mars25.on("message", message => {
@@ -2079,4 +2079,3 @@ mars23.login("");
 mars24.login("");
 mars25.login("");
 //////////////////////////////////
-
