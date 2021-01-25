@@ -1957,6 +1957,10 @@ mars25.on("message", message => {
   }
 });
 /////////////////////////////////////////////
+mars26.on("ready", ready => {
+  mars26.user.setActivity("code by mars");
+  console.log("26");
+});
 mars26.on("message", message => {
   if (message.content === "spam") {
     message.channel.send(
@@ -1993,12 +1997,9 @@ mars26.on("message", message => {
   }
 });
 ///////////////////////////////////////
-mars27.on("message", message => {
-  if (message.content === "spam") {
-    message.channel.send(
-      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
-    );
-  }
+mars27.on("ready", ready => {
+  mars27.user.setActivity("code by mars");
+  console.log("27");
 });
 mars27.on("message", message => {
   if (message.content === "spam") {
@@ -2020,7 +2021,15 @@ mars27.on("message", message => {
       "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
     );
   }
-});mars27.on("message", message => {
+});
+mars27.on("message", message => {
+  if (message.content === "spam") {
+    message.channel.send(
+      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
+    );
+  }
+});
+mars27.on("message", message => {
   if (message.content === "spam") {
     message.channel.send(
       "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
@@ -2035,6 +2044,10 @@ mars27.on("message", message => {
   }
 });
 //////////////////////////////////
+mars28.on("ready", ready => {
+  mars28.user.setActivity("code by mars");
+  console.log("29");
+});
 mars28.on("message", message => {
   if (message.content === "spam") {
     message.channel.send(
@@ -2064,6 +2077,10 @@ mars28.on("message", message => {
   }
 });
 ////////////////////////////////////////
+mars29.on("ready", ready => {
+  mars29.user.setActivity("code by mars");
+  console.log("29");
+});
 mars29.on("message", message => {
   if (message.content === "spam") {
     message.channel.send(
@@ -2093,6 +2110,10 @@ mars29.on("message", message => {
   }
 });
 //////////////////////////////////////
+mars30.on("ready", ready => {
+  mars30.user.setActivity("code by mars");
+  console.log("30");
+});
 mars30.on("message", message => {
   if (message.content === "spam") {
     message.channel.send(
@@ -2222,7 +2243,26 @@ mars25.on("ready", () => {
   var join = mars25.channels.get(""); /// ئاید ڤۆیس
   if (join) join.join();
 });
-
+mars26.on("ready", () => {
+  var join = mars26.channels.get(""); /// ئاید ڤۆیس
+  if (join) join.join();
+});
+mars27.on("ready", () => {
+  var join = mars27.channels.get(""); /// ئاید ڤۆیس
+  if (join) join.join();
+});
+mars28.on("ready", () => {
+  var join = mars28.channels.get(""); /// ئاید ڤۆیس
+  if (join) join.join();
+});
+mars29.on("ready", () => {
+  var join = mars29.channels.get(""); /// ئاید ڤۆیس
+  if (join) join.join();
+});
+mars30.on("ready", () => {
+  var join = mars30.channels.get(""); /// ئاید ڤۆیس
+  if (join) join.join();
+});
 ////////////////////////////////
 mars.login("");
 mars2.login("");
