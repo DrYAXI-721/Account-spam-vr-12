@@ -7806,406 +7806,475 @@ mars100.on("message", message => {
 });
 //////////////////////////// voice ////////////////////////
 mars.on("ready", () => {
-  var join = mars.channels.get("802324433464983632"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars2.on("ready", () => {
-  var join = mars2.channels.get("802324452955783218"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars3.on("ready", () => {
-  var join = mars3.channels.get("802324470483517461"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars4.on("ready", () => {
-  var join = mars4.channels.get("802324488187281439"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars5.on("ready", () => {
-  var join = mars5.channels.get("802324505011159061"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars6.on("ready", () => {
-  var join = mars6.channels.get("802324530488016906"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars7.on("ready", () => {
-  var join = mars7.channels.get("802324555997249546"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars8.on("ready", () => {
-  var join = mars8.channels.get("802324572497903626"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars9.on("ready", () => {
-  var join = mars9.channels.get("802324592320315422"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars10.on("ready", () => {
-  var join = mars10.channels.get("802324611136094308"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars11.on("ready", () => {
-  var join = mars11.channels.get("802324631221829652"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars12.on("ready", () => {
-  var join = mars12.channels.get("802324655603974164"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars13.on("ready", () => {
-  var join = mars13.channels.get("802324677497454603"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars14.on("ready", () => {
-  var join = mars14.channels.get("802324699530395668"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars15.on("ready", () => {
-  var join = mars15.channels.get("802324816228778004"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars16.on("ready", () => {
-  var join = mars16.channels.get("802324836650713139"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars17.on("ready", () => {
-  var join = mars17.channels.get("802324860310388768"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars18.on("ready", () => {
-  var join = mars18.channels.get("802324879922692146"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars19.on("ready", () => {
-  var join = mars19.channels.get("802324988932653067"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars20.on("ready", () => {
-  var join = mars20.channels.get("802325012681588738"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars21.on("ready", () => {
-  var join = mars21.channels.get("802325033267626004"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars22.on("ready", () => {
-  var join = mars22.channels.get("802325081048088627"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars23.on("ready", () => {
-  var join = mars23.channels.get("802325107514540052"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars24.on("ready", () => {
-  var join = mars24.channels.get("802325124632018944"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars25.on("ready", () => {
-  var join = mars25.channels.get("802325142298296330"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars26.on("ready", () => {
-  var join = mars26.channels.get("802325158585040947"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars27.on("ready", () => {
-  var join = mars27.channels.get("802325233733992478"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars28.on("ready", () => {
-  var join = mars28.channels.get("802325267875889193"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars29.on("ready", () => {
-  var join = mars29.channels.get("802325285156290611"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars30.on("ready", () => {
-  var join = mars30.channels.get("802325306634797096"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars31.on("ready", () => {
-  var join = mars31.channels.get("802325332660322344"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars32.on("ready", () => {
-  var join = mars32.channels.get("802325356220514325"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars33.on("ready", () => {
-  var join = mars33.channels.get("802325374843092992"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars34.on("ready", () => {
-  var join = mars34.channels.get("802325428906885141"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars35.on("ready", () => {
-  var join = mars35.channels.get("802325448427438131"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars36.on("ready", () => {
-  var join = mars36.channels.get("802325466967048192"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars37.on("ready", () => {
-  var join = mars37.channels.get("802325486784086026"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars38.on("ready", () => {
-  var join = mars38.channels.get("802325507169452053"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars39.on("ready", () => {
-  var join = mars39.channels.get("802325531722383380"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars40.on("ready", () => {
-  var join = mars40.channels.get("802325549523533856"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars41.on("ready", () => {
-  var join = mars41.channels.get("802325580748947456"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars42.on("ready", () => {
-  var join = mars42.channels.get("802325599216730112"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars43.on("ready", () => {
-  var join = mars43.channels.get("802325641470279720"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars44.on("ready", () => {
-  var join = mars44.channels.get("802325661405413376"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars45.on("ready", () => {
-  var join = mars45.channels.get("802325680237838336"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars46.on("ready", () => {
-  var join = mars46.channels.get("802325699251535914"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars47.on("ready", () => {
-  var join = mars47.channels.get("802325716200980510"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars48.on("ready", () => {
-  var join = mars48.channels.get("802325738400645120"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars49.on("ready", () => {
-  var join = mars49.channels.get("802325755446296576"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars50.on("ready", () => {
-  var join = mars50.channels.get("802325770940317716"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars51.on("ready", () => {
-  var join = mars51.channels.get("802324433464983632"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars52.on("ready", () => {
-  var join = mars52.channels.get("802324452955783218"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars53.on("ready", () => {
-  var join = mars53.channels.get("802324470483517461"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars54.on("ready", () => {
-  var join = mars54.channels.get("802324488187281439"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars55.on("ready", () => {
-  var join = mars55.channels.get("802324505011159061"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars56.on("ready", () => {
-  var join = mars56.channels.get("802324530488016906"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars57.on("ready", () => {
-  var join = mars57.channels.get("802324555997249546"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars58.on("ready", () => {
-  var join = mars58.channels.get("802324572497903626"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars59.on("ready", () => {
-  var join = mars59.channels.get("802324592320315422"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars60.on("ready", () => {
-  var join = mars60.channels.get("802324611136094308"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars61.on("ready", () => {
-  var join = mars61.channels.get("802324631221829652"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars62.on("ready", () => {
-  var join = mars62.channels.get("802324655603974164"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars63.on("ready", () => {
-  var join = mars63.channels.get("802324677497454603"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars64.on("ready", () => {
-  var join = mars64.channels.get("802324699530395668"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars65.on("ready", () => {
-  var join = mars65.channels.get("802324816228778004"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars66.on("ready", () => {
-  var join = mars66.channels.get("802324836650713139"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars67.on("ready", () => {
-  var join = mars67.channels.get("802324860310388768"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars68.on("ready", () => {
-  var join = mars68.channels.get("802324879922692146"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars69.on("ready", () => {
-  var join = mars69.channels.get("802324988932653067"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars70.on("ready", () => {
-  var join = mars70.channels.get("802325012681588738"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars71.on("ready", () => {
-  var join = mars71.channels.get("802325033267626004"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars72.on("ready", () => {
-  var join = mars72.channels.get("802325081048088627"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars73.on("ready", () => {
-  var join = mars73.channels.get("802325107514540052"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars74.on("ready", () => {
-  var join = mars74.channels.get("802325124632018944"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars75.on("ready", () => {
-  var join = mars75.channels.get("802325142298296330"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars76.on("ready", () => {
-  var join = mars76.channels.get("802325158585040947"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars77.on("ready", () => {
-  var join = mars77.channels.get("802325233733992478"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars78.on("ready", () => {
-  var join = mars78.channels.get("802325267875889193"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars79.on("ready", () => {
-  var join = mars79.channels.get("802325285156290611"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars80.on("ready", () => {
-  var join = mars80.channels.get("802325306634797096"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars81.on("ready", () => {
-  var join = mars81.channels.get("802325332660322344"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars82.on("ready", () => {
-  var join = mars82.channels.get("802325356220514325"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars83.on("ready", () => {
-  var join = mars83.channels.get("802325374843092992"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars84.on("ready", () => {
-  var join = mars84.channels.get("802325428906885141"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars85.on("ready", () => {
-  var join = mars85.channels.get("802325448427438131"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars86.on("ready", () => {
-  var join = mars86.channels.get("802325466967048192"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars87.on("ready", () => {
-  var join = mars87.channels.get("802325486784086026"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars88.on("ready", () => {
-  var join = mars88.channels.get("802325507169452053"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars89.on("ready", () => {
-  var join = mars89.channels.get("802325531722383380"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars90.on("ready", () => {
-  var join = mars90.channels.get("802325549523533856"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-
-mars91.on("ready", () => {
-  var join = mars91.channels.get("802325580748947456"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars92.on("ready", () => {
-  var join = mars92.channels.get("802325599216730112"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars93.on("ready", () => {
-  var join = mars93.channels.get("802325641470279720"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars94.on("ready", () => {
-  var join = mars94.channels.get("802325661405413376"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars95.on("ready", () => {
-  var join = mars95.channels.get("802325680237838336"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars96.on("ready", () => {
-  var join = mars96.channels.get("802325699251535914"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars97.on("ready", () => {
-  var join = mars97.channels.get("802325716200980510"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars98.on("ready", () => {
-  var join = mars98.channels.get("802325738400645120"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars99.on("ready", () => {
-  var join = mars99.channels.get("802325755446296576"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
-mars100.on("ready", () => {
-  var join = mars100.channels.get("802325770940317716"); /// ئاید ڤۆیس
-  if (join) join.join();
-});
+    var join = mars.channels.get("806167974649397280"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars2.on("ready", () => {
+    var join = mars2.channels.get("806168050142543932"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars3.on("ready", () => {
+    var join = mars3.channels.get("806168157533634643"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars4.on("ready", () => {
+    var join = mars4.channels.get("806168190957781043"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars5.on("ready", () => {
+    var join = mars5.channels.get("806168236017582151"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars6.on("ready", () => {
+    var join = mars6.channels.get("806168312676483153"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars7.on("ready", () => {
+    var join = mars7.channels.get("806168350752243734"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars8.on("ready", () => {
+    var join = mars8.channels.get("806168389818253365"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars9.on("ready", () => {
+    var join = mars9.channels.get("806168442327007238"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars10.on("ready", () => {
+    var join = mars10.channels.get("806168550389055508"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars11.on("ready", () => {
+    var join = mars11.channels.get("806203511623647353"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars12.on("ready", () => {
+    var join = mars12.channels.get("806222675302940713"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars13.on("ready", () => {
+    var join = mars13.channels.get("806222716100280371"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars14.on("ready", () => {
+    var join = mars14.channels.get("806222753224327228"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars15.on("ready", () => {
+    var join = mars15.channels.get("806222820094509146"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars16.on("ready", () => {
+    var join = mars16.channels.get("806222940563308604"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars17.on("ready", () => {
+    var join = mars17.channels.get("806222970791526432"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars18.on("ready", () => {
+    var join = mars18.channels.get("806223002382762024"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars19.on("ready", () => {
+    var join = mars19.channels.get("806223034678509629"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars20.on("ready", () => {
+    var join = mars20.channels.get("806223066064486489"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars21.on("ready", () => {
+    var join = mars21.channels.get("806223100529999933"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars22.on("ready", () => {
+    var join = mars22.channels.get("806223176560410670"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars23.on("ready", () => {
+    var join = mars23.channels.get("806223205639520297"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars24.on("ready", () => {
+    var join = mars24.channels.get("806223235497721886"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars25.on("ready", () => {
+    var join = mars25.channels.get("806223269433966643"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars26.on("ready", () => {
+    var join = mars26.channels.get("806223298979299368"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars27.on("ready", () => {
+    var join = mars27.channels.get("806223350262530150"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars28.on("ready", () => {
+    var join = mars28.channels.get("806223383532142662"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars29.on("ready", () => {
+    var join = mars29.channels.get("806223414389243945"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars30.on("ready", () => {
+    var join = mars30.channels.get("806223468969459722"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars31.on("ready", () => {
+    var join = mars31.channels.get("806223501283426325"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars32.on("ready", () => {
+    var join = mars32.channels.get("806223533440237639"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars33.on("ready", () => {
+    var join = mars33.channels.get("806223561944727584"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars34.on("ready", () => {
+    var join = mars34.channels.get("806223592647688202"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars35.on("ready", () => {
+    var join = mars35.channels.get("806223624888385546"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars36.on("ready", () => {
+    var join = mars36.channels.get("806223667696107562"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars37.on("ready", () => {
+    var join = mars37.channels.get("806223835472330823"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars38.on("ready", () => {
+    var join = mars38.channels.get("806223874210791444"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars39.on("ready", () => {
+    var join = mars39.channels.get("806223908281384990"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars40.on("ready", () => {
+    var join = mars40.channels.get("806223957241888769"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars41.on("ready", () => {
+    var join = mars41.channels.get("806224015139143710"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars42.on("ready", () => {
+    var join = mars42.channels.get("806224082970345472"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars43.on("ready", () => {
+    var join = mars43.channels.get("806224128000131142"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars44.on("ready", () => {
+    var join = mars44.channels.get("806224157196419113"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars45.on("ready", () => {
+    var join = mars45.channels.get("806224189403955260"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars46.on("ready", () => {
+    var join = mars46.channels.get("806224229832982638"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars47.on("ready", () => {
+    var join = mars47.channels.get("806224269671268352"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars48.on("ready", () => {
+    var join = mars48.channels.get("806224314944192523"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars49.on("ready", () => {
+    var join = mars49.channels.get("806224351548538960"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars50.on("ready", () => {
+    var join = mars50.channels.get("806224384837943296"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+ mars51.on("ready", () => {
+    var join = mars51.channels.get("806167974649397280"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars52.on("ready", () => {
+    var join = mars52.channels.get("806168050142543932"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars53.on("ready", () => {
+    var join = mars53.channels.get("806168157533634643"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars54.on("ready", () => {
+    var join = mars54.channels.get("806168190957781043"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars55.on("ready", () => {
+    var join = mars55.channels.get("806168236017582151"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars56.on("ready", () => {
+    var join = mars56.channels.get("806168312676483153"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars57.on("ready", () => {
+    var join = mars57.channels.get("806168350752243734"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars58.on("ready", () => {
+    var join = mars58.channels.get("806168389818253365"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars59.on("ready", () => {
+    var join = mars59.channels.get("806168442327007238"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars60.on("ready", () => {
+    var join = mars60.channels.get("806168550389055508"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars61.on("ready", () => {
+    var join = mars61.channels.get("806203511623647353"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars62.on("ready", () => {
+    var join = mars62.channels.get("806222675302940713"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars63.on("ready", () => {
+    var join = mars63.channels.get("806222716100280371"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars64.on("ready", () => {
+    var join = mars64.channels.get("806222753224327228"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars65.on("ready", () => {
+    var join = mars65.channels.get("806222820094509146"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars66.on("ready", () => {
+    var join = mars66.channels.get("806222940563308604"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars67.on("ready", () => {
+    var join = mars67.channels.get("806222970791526432"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars68.on("ready", () => {
+    var join = mars68.channels.get("806223002382762024"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars69.on("ready", () => {
+    var join = mars69.channels.get("806223034678509629"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars70.on("ready", () => {
+    var join = mars70.channels.get("806223066064486489"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars71.on("ready", () => {
+    var join = mars71.channels.get("806223100529999933"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars72.on("ready", () => {
+    var join = mars72.channels.get("806223176560410670"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars73.on("ready", () => {
+    var join = mars73.channels.get("806223205639520297"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars74.on("ready", () => {
+    var join = mars74.channels.get("806223235497721886"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars75.on("ready", () => {
+    var join = mars75.channels.get("806223269433966643"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars76.on("ready", () => {
+    var join = mars76.channels.get("806223298979299368"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars77.on("ready", () => {
+    var join = mars77.channels.get("806223350262530150"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars78.on("ready", () => {
+    var join = mars78.channels.get("806223383532142662"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars79.on("ready", () => {
+    var join = mars79.channels.get("806223414389243945"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars80.on("ready", () => {
+    var join = mars80.channels.get("806223468969459722"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars81.on("ready", () => {
+    var join = mars81.channels.get("806223501283426325"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars82.on("ready", () => {
+    var join = mars82.channels.get("806223533440237639"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars83.on("ready", () => {
+    var join = mars83.channels.get("806223561944727584"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars84.on("ready", () => {
+    var join = mars84.channels.get("806223592647688202"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars85.on("ready", () => {
+    var join = mars85.channels.get("806223624888385546"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  ////////////////////////////////////
+  mars86.on("ready", () => {
+    var join = mars86.channels.get("806223667696107562"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars87.on("ready", () => {
+    var join = mars87.channels.get("806223835472330823"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars88.on("ready", () => {
+    var join = mars88.channels.get("806223874210791444"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars89.on("ready", () => {
+    var join = mars89.channels.get("806223908281384990"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars90.on("ready", () => {
+    var join = mars90.channels.get("806223957241888769"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars91.on("ready", () => {
+    var join = mars91.channels.get("806224015139143710"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars92.on("ready", () => {
+    var join = mars92.channels.get("806224082970345472"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars93.on("ready", () => {
+    var join = mars93.channels.get("806224128000131142"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars94.on("ready", () => {
+    var join = mars94.channels.get("806224157196419113"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars95.on("ready", () => {
+    var join = mars95.channels.get("806224189403955260"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars96.on("ready", () => {
+    var join = mars96.channels.get("806224229832982638"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars97.on("ready", () => {
+    var join = mars97.channels.get("806224269671268352"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars98.on("ready", () => {
+    var join = mars98.channels.get("806224314944192523"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars99.on("ready", () => {
+    var join = mars99.channels.get("806224351548538960"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
+  mars100.on("ready", () => {
+    var join = mars100.channels.get("806224384837943296"); /// ئاید ڤۆیس
+    if (join) join.join();
+  });
 ////////////////////////////////
 mars.login(process.env.m1);
 mars2.login(process.env.m2);
