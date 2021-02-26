@@ -7772,12 +7772,12 @@ mars.on("ready", () => {
   });
   ////////////////////////////////////
   mars5.on("ready", () => {
-    var join = mars5.channels.get("814797099085987860"); /// ئاید ڤۆیس
+    var join = mars5.channels.get("814797099085987860"); ///    v1 
     if (join) join.join();
   });
   ////////////////////////////////////
   mars6.on("ready", () => {
-    var join = mars6.channels.get("814797768711208960"); /// ئاید ڤۆیس
+    var join = mars6.channels.get("814797768711208960"); /// v2
     if (join) join.join();
   });
   ////////////////////////////////////
@@ -7797,12 +7797,12 @@ mars.on("ready", () => {
   });
   ////////////////////////////////////
   mars10.on("ready", () => {
-    var join = mars10.channels.get("814797768711208960"); /// ئاید ڤۆیس
+    var join = mars10.channels.get("814797768711208960"); ///v2
     if (join) join.join();
   });
   ////////////////////////////////////
   mars11.on("ready", () => {
-    var join = mars11.channels.get("814798746600341504"); /// ئاید ڤۆیس
+    var join = mars11.channels.get("814797768711208960"); /// 
     if (join) join.join();
   });
   ////////////////////////////////////
@@ -7832,22 +7832,22 @@ mars.on("ready", () => {
   });
   ////////////////////////////////////
   mars17.on("ready", () => {
-    var join = mars17.channels.get(""); /// ئاید ڤۆیس
+    var join = mars17.channels.get("814798782532681768"); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars18.on("ready", () => {
-    var join = mars18.channels.get(""); /// ئاید ڤۆیس
+    var join = mars18.channels.get("814798782532681768"); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars19.on("ready", () => {
-    var join = mars19.channels.get(""); /// ئاید ڤۆیس
+    var join = mars19.channels.get("814798782532681768"); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars20.on("ready", () => {
-    var join = mars20.channels.get(""); /// ئاید ڤۆیس
+    var join = mars20.channels.get("814798782532681768"); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
