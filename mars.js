@@ -119,7 +119,7 @@ const mars100 = new Discord.Client();
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////
 mars.on("ready", ready => {
-  mars.user.setActivity("code by mars");
+  mars.user.setActivity("END WEB ");
   console.log("1");
 });
 mars.on("message", message => {
@@ -194,7 +194,7 @@ mars.on("message", message => {
 });
 //////////////////////////////////////////////////////////////////////////////////////////////
 mars2.on("ready", ready => {
-  mars2.user.setActivity("code by mars");
+  mars2.user.setActivity("END WEB ");
   console.log("2");
 });
 
@@ -5906,7 +5906,7 @@ mars75.on("message", message => {
 
 ////////////////////////////////////////////////////
 mars76.on("ready", ready => {
-  mars76.user.setActivity("code by mars");
+  mars76.user.setActivity("code by RASHA");
   console.log("76");
 });
 
