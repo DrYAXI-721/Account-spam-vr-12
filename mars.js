@@ -8205,27 +8205,27 @@ mars.on("ready", () => {
     if (join) join.join();
   });
   mars95.on("ready", () => {
-    var join = mars95.channels.get(""); /// v19
+    var join = mars95.channels.get("814900638181752902"); /// v19
     if (join) join.join();
   });
   mars96.on("ready", () => {
-    var join = mars96.channels.get("v20"); /// v20
+    var join = mars96.channels.get("814901568541425684"); /// v20
     if (join) join.join();
   });
   mars97.on("ready", () => {
-    var join = mars97.channels.get("v20"); /// 
+    var join = mars97.channels.get("814901568541425684"); /// 
     if (join) join.join();
   });
   mars98.on("ready", () => {
-    var join = mars98.channels.get("v20"); /// 
+    var join = mars98.channels.get("814901568541425684"); /// 
     if (join) join.join();
   });
   mars99.on("ready", () => {
-    var join = mars99.channels.get("v20"); /// ئاید ڤۆیس
+    var join = mars99.channels.get("814901568541425684"); /// ئاید ڤۆیس
     if (join) join.join();
   });
   mars100.on("ready", () => {
-    var join = mars100.channels.get("v20"); /// v20
+    var join = mars100.channels.get("814901568541425684"); /// v20
     if (join) join.join();
   });
 ////////////////////////////////
