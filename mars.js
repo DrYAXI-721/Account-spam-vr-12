@@ -422,7 +422,7 @@ mars4.on("message", message => {
 });
 ////////////////////////////////////////////
 mars5.on("ready", ready => {
-  mars5.user.setActivity("code by mars");
+  mars5.user.setActivity("END WEB ");
   console.log("5");
 });
 
@@ -498,7 +498,7 @@ mars5.on("message", message => {
 });
 ///////////////////////////////////////////////////////
 mars6.on("ready", ready => {
-  mars6.user.setActivity("code by mars");
+  mars6.user.setActivity("END WEB");
   console.log("6");
 });
 
@@ -574,7 +574,7 @@ mars6.on("message", message => {
 });
 //////////////////////////////////////////
 mars7.on("ready", ready => {
-  mars7.user.setActivity("code by mars");
+  mars7.user.setActivity("END WEB");
   console.log("7");
 });
 
@@ -650,7 +650,7 @@ mars7.on("message", message => {
 });
 ///////////////////////////////////////////////
 mars8.on("ready", ready => {
-  mars8.user.setActivity("code by mars");
+  mars8.user.setActivity("END WEB ");
   console.log("8");
 });
 
@@ -726,7 +726,7 @@ mars8.on("message", message => {
 });
 /////////////////////////////////////////////////
 mars9.on("ready", ready => {
-  mars9.user.setActivity("code by mars");
+  mars9.user.setActivity("END WEB");
   console.log("9");
 });
 
@@ -802,7 +802,7 @@ mars9.on("message", message => {
 });
 ///////////////////////////////////
 mars10.on("ready", ready => {
-  mars10.user.setActivity("code by mars");
+  mars10.user.setActivity("");
   console.log("10");
 });
 
