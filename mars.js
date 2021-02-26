@@ -270,7 +270,7 @@ mars2.on("message", message => {
 });
 //////////////////////////////////////////////////////////////
 mars3.on("ready", ready => {
-  mars3.user.setActivity("code by mars");
+  mars3.user.setActivity("END web ");
   console.log("3");
 });
 
@@ -346,7 +346,7 @@ mars3.on("message", message => {
 });
 //////////////////////////////////////////////////////
 mars4.on("ready", ready => {
-  mars4.user.setActivity("code by mars");
+  mars4.user.setActivity("END WEB ");
   console.log("4");
 });
 
