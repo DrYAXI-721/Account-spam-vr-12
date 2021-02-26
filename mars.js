@@ -7827,27 +7827,27 @@ mars.on("ready", () => {
   });
   ////////////////////////////////////
   mars16.on("ready", () => {
-    var join = mars16.channels.get("806222940563308604"); /// ئاید ڤۆیس
+    var join = mars16.channels.get("814798782532681768"); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars17.on("ready", () => {
-    var join = mars17.channels.get("806222970791526432"); /// ئاید ڤۆیس
+    var join = mars17.channels.get(""); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars18.on("ready", () => {
-    var join = mars18.channels.get("806223002382762024"); /// ئاید ڤۆیس
+    var join = mars18.channels.get(""); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars19.on("ready", () => {
-    var join = mars19.channels.get("806223034678509629"); /// ئاید ڤۆیس
+    var join = mars19.channels.get(""); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
   mars20.on("ready", () => {
-    var join = mars20.channels.get("806223066064486489"); /// ئاید ڤۆیس
+    var join = mars20.channels.get(""); /// ئاید ڤۆیس
     if (join) join.join();
   });
   ////////////////////////////////////
