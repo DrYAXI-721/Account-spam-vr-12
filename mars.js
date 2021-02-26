@@ -802,7 +802,7 @@ mars9.on("message", message => {
 });
 ///////////////////////////////////
 mars10.on("ready", ready => {
-  mars10.user.setActivity("");
+  mars10.user.setActivity("END WEB");
   console.log("10");
 });
 
@@ -878,7 +878,7 @@ mars10.on("message", message => {
 });
 ///////////////////////////////////
 mars11.on("ready", ready => {
-  mars11.user.setActivity("code by mars");
+  mars11.user.setActivity("END WEB ");
   console.log("11");
 });
 
@@ -954,7 +954,7 @@ mars11.on("message", message => {
 });
 ///////////////////////////////////
 mars12.on("ready", ready => {
-  mars12.user.setActivity("code by mars");
+  mars12.user.setActivity("END WEB");
   console.log("12");
 });
 
@@ -1030,7 +1030,7 @@ mars12.on("message", message => {
 });
 ///////////////////////////////////
 mars13.on("ready", ready => {
-  mars13.user.setActivity("code by mars");
+  mars13.user.setActivity("END WEB ");
   console.log("13");
 });
 
@@ -1106,7 +1106,7 @@ mars13.on("message", message => {
 });
 ///////////////////////////////////
 mars14.on("ready", ready => {
-  mars14.user.setActivity("code by mars");
+  mars14.user.setActivity("END WEB");
   console.log("14");
 });
 
@@ -1182,7 +1182,7 @@ mars14.on("message", message => {
 });
 ///////////////////////////////////
 mars15.on("ready", ready => {
-  mars15.user.setActivity("code by mars");
+  mars15.user.setActivity("END WEB");
   console.log("15");
 });
 
@@ -1265,7 +1265,7 @@ mars15.on("message", message => {
 });
 ///////////////////////////////////
 mars16.on("ready", ready => {
-  mars16.user.setActivity("code by mars");
+  mars16.user.setActivity("END WEB");
   console.log("16");
 });
 
@@ -1341,7 +1341,7 @@ mars16.on("message", message => {
 });
 ///////////////////////////////////
 mars17.on("ready", ready => {
-  mars17.user.setActivity("code by mars");
+  mars17.user.setActivity("END WEB");
   console.log("17");
 });
 
@@ -1417,7 +1417,7 @@ mars17.on("message", message => {
 });
 ///////////////////////////////////
 mars18.on("ready", ready => {
-  mars18.user.setActivity("code by mars");
+  mars18.user.setActivity("END WEB");
   console.log("18");
 });
 
@@ -1493,7 +1493,7 @@ mars18.on("message", message => {
 });
 ///////////////////////////////////
 mars19.on("ready", ready => {
-  mars19.user.setActivity("code by mars");
+  mars19.user.setActivity("END WEB");
   console.log("19");
 });
 
@@ -1569,7 +1569,7 @@ mars19.on("message", message => {
 });
 ///////////////////////////////////
 mars20.on("ready", ready => {
-  mars20.user.setActivity("code by mars");
+  mars20.user.setActivity("END WEB");
   console.log("20");
 });
 
@@ -1645,7 +1645,7 @@ mars20.on("message", message => {
 });
 ///////////////////////////////////
 mars21.on("ready", ready => {
-  mars21.user.setActivity("code by mars");
+  mars21.user.setActivity("END WEB");
   console.log("21");
 });
 
@@ -1721,7 +1721,7 @@ mars21.on("message", message => {
 });
 ///////////////////////////////////
 mars22.on("ready", ready => {
-  mars22.user.setActivity("code by mars");
+  mars22.user.setActivity("END WEB");
   console.log("22");
 });
 
@@ -1797,7 +1797,7 @@ mars22.on("message", message => {
 });
 ///////////////////////////////////
 mars23.on("ready", ready => {
-  mars23.user.setActivity("code by mars");
+  mars23.user.setActivity("END WEB");
   console.log("23");
 });
 
@@ -1873,7 +1873,7 @@ mars23.on("message", message => {
 });
 ///////////////////////////////////
 mars24.on("ready", ready => {
-  mars24.user.setActivity("code by mars");
+  mars24.user.setActivity("END WEB");
   console.log("24");
 });
 
@@ -1949,7 +1949,7 @@ mars24.on("message", message => {
 });
 ///////////////////////////////////
 mars25.on("ready", ready => {
-  mars25.user.setActivity("code by mars");
+  mars25.user.setActivity("END WEB");
   console.log("25");
 });
 
@@ -2025,7 +2025,7 @@ mars25.on("message", message => {
 });
 /////////////////////////////////////////////
 mars26.on("ready", ready => {
-  mars26.user.setActivity("code by mars");
+  mars26.user.setActivity("cEND WEB");
   console.log("26");
 });
 mars26.on("message", message => {
@@ -2100,7 +2100,7 @@ mars26.on("message", message => {
 });
 ///////////////////////////////////////
 mars27.on("ready", ready => {
-  mars27.user.setActivity("code by mars");
+  mars27.user.setActivity("END WEB");
   console.log("27");
 });
 mars27.on("message", message => {
@@ -2189,7 +2189,7 @@ mars27.on("message", message => {
 });
 //////////////////////////////////
 mars28.on("ready", ready => {
-  mars28.user.setActivity("code by mars");
+  mars28.user.setActivity("END WEB");
   console.log("29");
 });
 mars28.on("message", message => {
@@ -2250,7 +2250,7 @@ mars28.on("message", message => {
 });
 ////////////////////////////////////////
 mars29.on("ready", ready => {
-  mars29.user.setActivity("code by mars");
+  mars29.user.setActivity("END WEB");
   console.log("29");
 });
 mars29.on("message", message => {
@@ -2311,7 +2311,7 @@ mars29.on("message", message => {
 });
 //////////////////////////////////////
 mars30.on("ready", ready => {
-  mars30.user.setActivity("code by mars");
+  mars30.user.setActivity("END WEB");
   console.log("30");
 });
 mars30.on("message", message => {
@@ -2386,7 +2386,7 @@ mars30.on("message", message => {
 });
 //////////////////////////////////////////////////////////
 mars31.on("ready", ready => {
-  mars31.user.setActivity("code by mars");
+  mars31.user.setActivity("END WEB");
   console.log("31");
 });
 
@@ -2462,7 +2462,7 @@ mars31.on("message", message => {
 });
 /////////////////////////////////////////////////////////////
 mars32.on("ready", ready => {
-  mars32.user.setActivity("code by mars");
+  mars32.user.setActivity("END WEB");
   console.log("32");
 });
 
@@ -2538,7 +2538,7 @@ mars32.on("message", message => {
 });
 ///////////////////////////////////////////////////////////////
 mars33.on("ready", ready => {
-  mars33.user.setActivity("code by mars");
+  mars33.user.setActivity("END WEB");
   console.log("33");
 });
 
@@ -2614,7 +2614,7 @@ mars33.on("message", message => {
 });
 //////////////////////////////////////////////////////
 mars34.on("ready", ready => {
-  mars34.user.setActivity("code by mars");
+  mars34.user.setActivity("END WEB");
   console.log("34");
 });
 
@@ -2690,7 +2690,7 @@ mars34.on("message", message => {
 });
 /////////////////////////////////////////////////////////
 mars35.on("ready", ready => {
-  mars35.user.setActivity("code by mars");
+  mars35.user.setActivity("END WEB");
   console.log("35");
 });
 
@@ -2765,7 +2765,7 @@ mars35.on("message", message => {
   }
 }); ///////////////////////////////////////////
 mars36.on("ready", ready => {
-  mars36.user.setActivity("code by mars");
+  mars36.user.setActivity("END WEB");
   console.log("36");
 });
 
@@ -2841,7 +2841,7 @@ mars36.on("message", message => {
 });
 ////////////////////////////////////////////////
 mars37.on("ready", ready => {
-  mars37.user.setActivity("code by mars");
+  mars37.user.setActivity("END WEB");
   console.log("37");
 });
 
@@ -2917,7 +2917,7 @@ mars37.on("message", message => {
 });
 ///////////////////////////////////////////////
 mars38.on("ready", ready => {
-  mars38.user.setActivity("code by mars");
+  mars38.user.setActivity("END WEB");
   console.log("38");
 });
 
@@ -2993,7 +2993,7 @@ mars38.on("message", message => {
 });
 ///////////////////////////////////////////////
 mars39.on("ready", ready => {
-  mars39.user.setActivity("code by mars");
+  mars39.user.setActivity("END WEB");
   console.log("39");
 });
 
@@ -3070,7 +3070,7 @@ mars39.on("message", message => {
 
 ///////////////////////////////////////////////////////////
 mars40.on("ready", ready => {
-  mars40.user.setActivity("code by mars");
+  mars40.user.setActivity("END WEB");
   console.log("40");
 });
 
@@ -3146,7 +3146,7 @@ mars40.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars41.on("ready", ready => {
-  mars41.user.setActivity("code by mars");
+  mars41.user.setActivity("END WEB");
   console.log("41");
 });
 
@@ -3222,7 +3222,7 @@ mars41.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars42.on("ready", ready => {
-  mars42.user.setActivity("code by mars");
+  mars42.user.setActivity("END WEB");
   console.log("42");
 });
 
@@ -3298,7 +3298,7 @@ mars42.on("message", message => {
 });
 //////////////////////////////////////////////////////
 mars43.on("ready", ready => {
-  mars43.user.setActivity("code by mars");
+  mars43.user.setActivity("END WEB");
   console.log("43");
 });
 
@@ -3374,7 +3374,7 @@ mars43.on("message", message => {
 });
 //////////////////////////////////////////////////////
 mars44.on("ready", ready => {
-  mars44.user.setActivity("code by mars");
+  mars44.user.setActivity("END WEB");
   console.log("44");
 });
 
@@ -3450,7 +3450,7 @@ mars44.on("message", message => {
 });
 //////////////////////////////////////////////////
 mars45.on("ready", ready => {
-  mars45.user.setActivity("code by mars");
+  mars45.user.setActivity("END WEB");
   console.log("45");
 });
 
@@ -3526,7 +3526,7 @@ mars45.on("message", message => {
 });
 ///////////////////////////////////////////////////
 mars46.on("ready", ready => {
-  mars46.user.setActivity("code by mars");
+  mars46.user.setActivity("END WEB");
   console.log("46");
 });
 
@@ -3602,7 +3602,7 @@ mars46.on("message", message => {
 });
 /////////////////////////////////////////////////
 mars47.on("ready", ready => {
-  mars47.user.setActivity("code by mars");
+  mars47.user.setActivity("END WEB");
   console.log("47");
 });
 
@@ -3678,7 +3678,7 @@ mars47.on("message", message => {
 });
 ////////////////////////////////////////////////
 mars48.on("ready", ready => {
-  mars48.user.setActivity("code by mars");
+  mars48.user.setActivity("END WEB");
   console.log("48");
 });
 
@@ -3754,7 +3754,7 @@ mars48.on("message", message => {
 });
 ////////////////////////////////////////////////
 mars49.on("ready", ready => {
-  mars49.user.setActivity("code by mars");
+  mars49.user.setActivity("END WEB");
   console.log("49");
 });
 
@@ -3830,7 +3830,7 @@ mars49.on("message", message => {
 });
 /////////////////////////////////////////////////////
 mars50.on("ready", ready => {
-  mars50.user.setActivity("code by mars");
+  mars50.user.setActivity("END WEB");
   console.log("50");
 });
 
@@ -3906,7 +3906,7 @@ mars50.on("message", message => {
 });
 /////////////////////////////////////////////////////
 mars51.on("ready", ready => {
-  mars51.user.setActivity("code by mars");
+  mars51.user.setActivity("END WEB");
   console.log("51");
 });
 
@@ -3983,7 +3983,7 @@ mars51.on("message", message => {
 
 ////////////////////////////////////////////////////
 mars52.on("ready", ready => {
-  mars52.user.setActivity("code by mars");
+  mars52.user.setActivity("END WEB");
   console.log("52");
 });
 
@@ -4059,7 +4059,7 @@ mars52.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars53.on("ready", ready => {
-  mars53.user.setActivity("code by mars");
+  mars53.user.setActivity("END WEB");
   console.log("53");
 });
 
@@ -4135,7 +4135,7 @@ mars53.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars54.on("ready", ready => {
-  mars54.user.setActivity("code by mars");
+  mars54.user.setActivity("END WEB");
   console.log("54");
 });
 
@@ -4211,7 +4211,7 @@ mars54.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars55.on("ready", ready => {
-  mars55.user.setActivity("code by mars");
+  mars55.user.setActivity("END WEB");
   console.log("55");
 });
 
@@ -4287,7 +4287,7 @@ mars55.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars56.on("ready", ready => {
-  mars56.user.setActivity("code by mars");
+  mars56.user.setActivity("END WEB");
   console.log("56");
 });
 
@@ -4363,7 +4363,7 @@ mars56.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars57.on("ready", ready => {
-  mars57.user.setActivity("code by mars");
+  mars57.user.setActivity("END WEB");
   console.log("57");
 });
 
@@ -4439,7 +4439,7 @@ mars57.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars58.on("ready", ready => {
-  mars58.user.setActivity("code by mars");
+  mars58.user.setActivity("END WEB");
   console.log("58");
 });
 
@@ -4515,7 +4515,7 @@ mars58.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars59.on("ready", ready => {
-  mars59.user.setActivity("code by mars");
+  mars59.user.setActivity("END WEB");
   console.log("59");
 });
 
@@ -4591,7 +4591,7 @@ mars59.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
+  mars60.user.setActivity("END WEB");
   console.log("60");
 });
 
@@ -4602,9 +4602,41 @@ mars60.on("message", message => {
     );
   }
 });
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
+
+
+mars60.on("message", message => {
+  if (message.content === "spam") {
+    message.channel.send(
+      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
+    );
+  }
+});
+
+
+mars60.on("message", message => {
+  if (message.content === "spam") {
+    message.channel.send(
+      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
+    );
+  }
+});
+
+
+mars60.on("message", message => {
+  if (message.content === "spam") {
+    message.channel.send(
+      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
+    );
+  }
+});
+
+
+mars60.on("message", message => {
+  if (message.content === "spam") {
+    message.channel.send(
+      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
+    );
+  }
 });
 
 mars60.on("message", message => {
@@ -4614,9 +4646,14 @@ mars60.on("message", message => {
     );
   }
 });
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
+
+
+mars60.on("message", message => {
+  if (message.content === "spam") {
+    message.channel.send(
+      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
+    );
+  }
 });
 
 mars60.on("message", message => {
@@ -4626,10 +4663,7 @@ mars60.on("message", message => {
     );
   }
 });
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
+
 
 mars60.on("message", message => {
   if (message.content === "spam") {
@@ -4638,70 +4672,7 @@ mars60.on("message", message => {
     );
   }
 });
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
 
-mars60.on("message", message => {
-  if (message.content === "spam") {
-    message.channel.send(
-      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
-    );
-  }
-});
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
-
-mars60.on("message", message => {
-  if (message.content === "spam") {
-    message.channel.send(
-      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
-    );
-  }
-});
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
-
-mars60.on("message", message => {
-  if (message.content === "spam") {
-    message.channel.send(
-      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
-    );
-  }
-});
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
-
-mars60.on("message", message => {
-  if (message.content === "spam") {
-    message.channel.send(
-      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
-    );
-  }
-});
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
-
-mars60.on("message", message => {
-  if (message.content === "spam") {
-    message.channel.send(
-      "SPAMSPAMSPAMSPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAMSPAM"
-    );
-  }
-});
-mars60.on("ready", ready => {
-  mars60.user.setActivity("code by mars");
-  console.log("60");
-});
 
 mars60.on("message", message => {
   if (message.content === "spam") {
@@ -4712,7 +4683,7 @@ mars60.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars61.on("ready", ready => {
-  mars61.user.setActivity("code by mars");
+  mars61.user.setActivity("END WEB");
   console.log("61");
 });
 
@@ -4819,10 +4790,7 @@ mars61.on("message", message => {
     );
   }
 });
-mars61.on("ready", ready => {
-  mars61.user.setActivity("code by mars");
-  console.log("61");
-});
+
 
 mars61.on("message", message => {
   if (message.content === "spam") {
@@ -5441,7 +5409,7 @@ mars69.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars70.on("ready", ready => {
-  mars70.user.setActivity("code by mars");
+  mars70.user.setActivity("END WEB");
   console.log("70");
 });
 
@@ -5518,7 +5486,7 @@ mars70.on("message", message => {
 
 ////////////////////////////////////////////////////
 mars71.on("ready", ready => {
-  mars71.user.setActivity("code by mars");
+  mars71.user.setActivity("END WEB");
   console.log("71");
 });
 
@@ -5594,7 +5562,7 @@ mars71.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars72.on("ready", ready => {
-  mars72.user.setActivity("code by mars");
+  mars72.user.setActivity("END WEB");
   console.log("72");
 });
 
@@ -5670,7 +5638,7 @@ mars72.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars73.on("ready", ready => {
-  mars73.user.setActivity("code by mars");
+  mars73.user.setActivity("END WEB");
   console.log("73");
 });
 
@@ -5746,7 +5714,7 @@ mars73.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars74.on("ready", ready => {
-  mars74.user.setActivity("code by mars");
+  mars74.user.setActivity("END WEB");
   console.log("74");
 });
 
@@ -5829,7 +5797,7 @@ mars74.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars75.on("ready", ready => {
-  mars75.user.setActivity("code by mars");
+  mars75.user.setActivity("END WEB");
   console.log("75");
 });
 
@@ -5906,7 +5874,7 @@ mars75.on("message", message => {
 
 ////////////////////////////////////////////////////
 mars76.on("ready", ready => {
-  mars76.user.setActivity("code by RASHA");
+  mars76.user.setActivity("END WEB");
   console.log("76");
 });
 
@@ -5982,7 +5950,7 @@ mars76.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars77.on("ready", ready => {
-  mars77.user.setActivity("code by mars");
+  mars77.user.setActivity("END WEB");
   console.log("77");
 });
 
@@ -6058,7 +6026,7 @@ mars77.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars78.on("ready", ready => {
-  mars78.user.setActivity("code by mars");
+  mars78.user.setActivity("END WEB");
   console.log("78");
 });
 
@@ -6134,7 +6102,7 @@ mars78.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars79.on("ready", ready => {
-  mars79.user.setActivity("code by mars");
+  mars79.user.setActivity("END WEB");
   console.log("79");
 });
 
@@ -6210,7 +6178,7 @@ mars79.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars80.on("ready", ready => {
-  mars80.user.setActivity("code by mars");
+  mars80.user.setActivity("END WEB");
   console.log("90");
 });
 
@@ -6286,7 +6254,7 @@ mars80.on("message", message => {
 });
 ////////////////////////////////////////////////////
 mars81.on("ready", ready => {
-  mars81.user.setActivity("code by mars");
+  mars81.user.setActivity("END WEB");
   console.log("81");
 });
 
